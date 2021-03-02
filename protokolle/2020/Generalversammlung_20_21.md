@@ -34,21 +34,21 @@ GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
 
 **Einnahmen und Ausgaben**
 
-| Budgetpunkt        | Bilanz         |
-| ------------------ | -------------- |
-| **Einnahmen**      |                |
-| Mitgliederbeiträge | CHF       0.00 |
-| Sponsoring         | CHF   6'742.00 |
-| **Ausgaben**       |                |
-| Bankspesen         | CHF -     5.10 |
-| Domain             | CHF -    10.70 |
-| Marketing / Flyer  | CHF -    55.40 |
-| Anlässe            | CHF -   384.55 |
-| Generalversammlung | CHF -   334.40 |
-| Studentenportal    | CHF - 5'612.50 |
-| Vorstandsanlass    | CHF -   327.50 |
-|                    |                |
-| **Summe**          | CHF      11.85 |
+| Budgetpunkt         | Budget      | Bilanz         |
+| ------------------- | ----------- | -------------- |
+| **Einnahmen**       |             |                |
+| Mitgliederbeiträge  | 0 CHF       | CHF       0.00 |
+| Sponsoring          | 5412 CHF    | CHF   6'742.00 |
+| **Ausgaben**        |             |                |
+| Bankspesen          |             | CHF -     5.10 |
+| Domain              | -10.70 CHF  | CHF -    10.70 |
+| Marketing / Flyer   | -350 CHF    | CHF -    55.40 |
+| Anlässe             | -1000 CHF   | CHF -   384.55 |
+| Generalversammlung  |             | CHF -   334.40 |
+| Studentenportal     | -3000 CHF   | CHF - 5'612.50 |
+| Vorstandsanlass     | -1050 CHF   | CHF -   327.50 |
+|                     |             |                |
+| **Summe**           |   1.30 CHF  | CHF      11.85 |
 
 **Vermögen**
 
