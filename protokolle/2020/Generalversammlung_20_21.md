@@ -34,7 +34,7 @@ GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
 
 **Einnahmen und Ausgaben**
 
-| Budgetpunkt         | Budget      | Bilanz         |
+| Budgetpunkt         | [Budget][b] | Bilanz         |
 | ------------------- | ----------- | -------------- |
 | **Einnahmen**       |             |                |
 | Mitgliederbeiträge  | 0 CHF       | CHF       0.00 |
@@ -49,6 +49,8 @@ GV-Protokoll vom 29.10.19 wird mit 13 von 14 Ja Stimmen angenommen.
 | Vorstandsanlass     | -1050 CHF   | CHF -   327.50 |
 |                     |             |                |
 | **Summe**           |   1.30 CHF  | CHF      11.85 |
+
+[b]: https://github.com/openhsr/verein/blob/master/protokolle/2019/10_generalversammlung/protokoll.md#budget-vereinsjahr-1920
 
 **Vermögen**
 
